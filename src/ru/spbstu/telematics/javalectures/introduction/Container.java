@@ -1,4 +1,4 @@
-package ru.spbstu.telematics.javalectures;
+package ru.spbstu.telematics.javalectures.introduction;
 
 public class Container {
 	private int a;

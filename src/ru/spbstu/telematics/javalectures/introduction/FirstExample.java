@@ -1,4 +1,4 @@
-package ru.spbstu.telematics.javalectures;
+package ru.spbstu.telematics.javalectures.introduction;
 public class FirstExample {
   public static void main(String[] args) {
 
