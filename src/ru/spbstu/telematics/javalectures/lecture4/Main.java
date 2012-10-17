@@ -1,7 +1,7 @@
-package ru.spbstu.telematics.javalectures.lection4;
+package ru.spbstu.telematics.javalectures.lecture4;
 
-import ru.spbstu.telematics.javalectures.lection4.AbstractMachine.ElectricSystem;
-import ru.spbstu.telematics.javalectures.lection4.AbstractMachine.Engine;
+import ru.spbstu.telematics.javalectures.lecture4.AbstractMachine.ElectricSystem;
+import ru.spbstu.telematics.javalectures.lecture4.AbstractMachine.Engine;
 
 public class Main {
 	public static void main(String[] args) {

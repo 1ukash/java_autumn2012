@@ -1,4 +1,4 @@
-package ru.spbstu.telematics.javalectures.lection4;
+package ru.spbstu.telematics.javalectures.lecture4;
 
 public class Immutable {
 	public static void main(String[] args) {

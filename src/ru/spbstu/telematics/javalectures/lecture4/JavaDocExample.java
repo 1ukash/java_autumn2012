@@ -1,4 +1,4 @@
-package ru.spbstu.telematics.javalectures.lection4;
+package ru.spbstu.telematics.javalectures.lecture4;
 
 /**
  * <p>

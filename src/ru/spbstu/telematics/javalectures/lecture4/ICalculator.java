@@ -1,4 +1,4 @@
-package ru.spbstu.telematics.javalectures.lection4;
+package ru.spbstu.telematics.javalectures.lecture4;
 
 public interface ICalculator {
 	static final int OP_CODE = 1;
